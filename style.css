@@ -1,0 +1,196 @@
+.heading1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background: #000;
+  color: rgb(235, 143, 7);
+  padding-top: 4px;
+  padding-left: 3vw;
+  width: 1302px;
+}
+body {
+  background-color: grey;
+}
+.h {
+  padding-top: 30px;
+}
+li {
+  display: inline-block;
+  color: white;
+  text-align: center;
+}
+ul {
+  text-align: right;
+  padding-right: 40px;
+  height: 40px;
+  word-spacing: 20px;
+  cursor: pointer;
+}
+.heading2 {
+  color: white;
+  background: grey;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  padding: 60px;
+  height: 900px;
+  line-height: 1;
+}
+button {
+  background-color: rgb(230, 152, 7);
+  color: white;
+  height: 45px;
+  width: 120px;
+  border-radius: 7px;
+  border-color: rgb(235, 143, 7);
+}
+button:hover {
+  background: #e67e22;
+}
+
+.another {
+  font-size: 21px;
+  background-color: #000000a2;
+  height: 100px;
+  margin: 10px;
+  width: 400px;
+  border-radius: 8px;
+  align-items: center;
+  padding-top: 18px;
+  line-height: 1.1;
+  text-align: center;
+  margin-left: 406px;
+}
+
+.page2 {
+  background: #000000d7;
+  color: white;
+  height: 600px;
+
+  width: 1003px;
+  font-size: 25px;
+  padding: 40px;
+  padding-left: 300px;
+  padding-top: 100px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.font {
+  font-weight: 400;
+  letter-spacing: -0.17em;
+}
+.change {
+  font-family: "Courier New", Courier, monospace;
+  word-spacing: -0.12em;
+  line-height: 0em;
+}
+.page3 {
+  color: white;
+  background: grey;
+  height: 600px;
+  font-size: 25px;
+  padding: 20px;
+  padding-top: 100px;
+}
+img {
+  height: 200px;
+  width: 300px;
+  border-radius: 30px;
+  padding-left: 20px;
+  display: inline-block;
+}
+.page5 {
+  background: rgb(34, 32, 32);
+  color: white;
+  height: 600px;
+  font-size: 25px;
+  height: 600px;
+  width: 1345px;
+}
+
+.ano {
+  background-color: #16121256;
+  height: 400px;
+  margin: 10px;
+  width: 500px;
+  margin-bottom: 100px;
+  border-radius: 8px;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.hd3 {
+  margin-top: 7px;
+  margin-bottom: 2px;
+}
+.hd5 {
+  margin-top: 7px;
+  margin-bottom: 2px;
+}
+.col1 {
+  padding: 10px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.col2 {
+  padding: 10px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.col3 {
+  padding: 10px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.px2 {
+  padding-left: 500px;
+  padding-top: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.contact {
+  padding-left: 500px;
+  line-height: 60px;
+  height: 100px;
+  align-items: center;
+  margin-left: 450px;
+  margin-bottom: 400px;
+  border-color: #444444;
+  background: #333;
+  padding: 2rem 3rem;
+  padding-top: 2rem;
+  height: 370px;
+  width: 360px;
+  border-radius: 10px;
+}
+.em {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  background: #444444;
+  border-color: #444444;
+  border-radius: 5px;
+}
+.pk {
+  padding-bottom: 20px;
+  background-color: #444444;
+  border-color: #444444;
+  border-radius: 5px;
+}
+.sub {
+  text-align: center;
+
+  width: 330px;
+  margin-left: 13px;
+  margin-bottom: 20px;
+}
+.area {
+  background: #444444;
+  border-color: #444444;
+  border-radius: 5px;
+}
